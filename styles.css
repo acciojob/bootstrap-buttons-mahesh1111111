@@ -34,31 +34,13 @@
   border-color: #17a2b8;
 }
 
-.btn-light {
-  background-color: #f8f9fa;
-  color: #212529;
-  border-color: #f8f9fa;
-}
-
-.btn-link {
-  color: #007bff;
-  text-decoration: none;
-  background-color: transparent;
-}
-
 .btn-lg {
   font-size: 1.25rem;
   padding: 0.5rem 1rem;
   border-radius: 0.3rem;
 }
 
-.btn-sm {
-  font-size: 0.875rem;
-  padding: 0.25rem 0.5rem;
-  border-radius: 0.2rem;
-}
-
-.btn-block {
+.btn-full-width {
   width: 100%;
 }
 
@@ -66,5 +48,3 @@
   pointer-events: none;
   opacity: 0.65;
 }
-
-/* Your CSS Code here. */
